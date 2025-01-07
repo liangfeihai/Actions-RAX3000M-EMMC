@@ -12,3 +12,6 @@
 *.iws
 *.iml
 *.ipr
+/misc.xml
+/modules.xml
+/vcs.xml
